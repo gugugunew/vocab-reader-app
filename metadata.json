@@ -1,0 +1,6 @@
+{
+  "name": "Pure Lexicon iOS",
+  "description": "基于 Apple Books 原生极简书卷美学与纯净组件化架构的英语学习阅读资料库原型",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
